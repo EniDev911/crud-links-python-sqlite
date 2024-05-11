@@ -1,0 +1,12 @@
+{
+    "menus":  {
+        "principal": [
+            "¿Qué desea realizar?",
+            "",
+            "(1) Crear un nuevo recurso",
+            "(2) Actualizar un recurso",
+            "",
+            "(0) Consultar los recursos"
+        ]
+    } 
+}
